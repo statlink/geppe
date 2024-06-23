@@ -1,0 +1,9 @@
+#useDynLib(fsn, .registration = TRUE)
+
+importFrom("stats", optim)
+importFrom("Rfast2", Runif)
+
+exportPattern("^[[:alpha:]]+")
+exportPattern("^[^\\.]")
+
+export(depois, dgep, dpe, pepois, pgep, ppe, qepois, qgep, qpe, repois, rgep, rpe, epois.mle, gep.mle, pe.mle)
