@@ -5,7 +5,7 @@
 Generalised Exponential Poisson and Poisson Exponential Distributions
 }
 \description{
-The package offers sime functions (including MLE) for the exponential-Poisson (EP), the generalised EP (GEP) and the Poisson-exponential (PE) distributions.
+The package offers some functions (including MLE) for the exponential-Poisson (EP), the generalised EP (GEP) and the Poisson-exponential (PE) distributions.
 }
 \details{
 \tabular{lll}{
